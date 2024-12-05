@@ -29,9 +29,3 @@ The Password Checker application built using ReactJS
 ## **Get Started**
 ### Prerequisites
 - Node.js and npm installed on your system.
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mwjl11/pwcheck-react.git
-   cd pwcheck-react
